@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jjudsonlohman]]></title>
         <description><![CDATA[jjudsonlohman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jjudsonlohman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 00:41:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 00:50:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jjudsonlohman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90d3027a-5efe-4e43-87f6-ffd0bbc8c18e.jpg">]]></description>
+            <link>https://thegrid.ai/jjudsonlohman/f30bd93e-1a4e-40f2-9742-cd6287dfc97c/index.html</link>
+            <guid isPermaLink="false">f30bd93e-1a4e-40f2-9742-cd6287dfc97c</guid>
+            <pubDate>Thu, 07 Apr 2016 00:50:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>J Judson Lohman is a freelance designer. He has worked in Theatre, Visual Arts, Graphic Design, and Marketing.</p>]]></description>
-            <link>undefinedj-judson-lohman-is-a-freelance-designer-he-has-worked-in-th/index.html</link>
+            <link>https://thegrid.ai/jjudsonlohman/j-judson-lohman-is-a-freelance-designer-he-has-worked-in-th/index.html</link>
             <guid isPermaLink="false">be781be5-f223-4c21-8a3f-2dd570f54bb6</guid>
             <pubDate>Thu, 07 Apr 2016 00:41:43 GMT</pubDate>
         </item>
