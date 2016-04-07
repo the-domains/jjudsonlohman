@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'J Judson Lohman is a freelance designer. He has worked in Theatre, Visual Arts, Graphic Design, and Marketing.'
-datePublished: '2016-04-07T00:41:43.412Z'
-dateModified: '2016-04-07T00:41:37.778Z'
+datePublished: '2016-04-07T00:53:12.190Z'
+dateModified: '2016-04-07T00:45:24.061Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-07-j-judson-lohman-is-a-freelance-designer-he-has-worked-in-th.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-j-judson-lohman-is-a-freelance-designer-he-has-worked-in-th.md
-published: true
 url: j-judson-lohman-is-a-freelance-designer-he-has-worked-in-th/index.html
 _type: Article
 
